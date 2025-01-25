@@ -20,11 +20,9 @@ A comprehensive platform to simplify wedding planning, providing a user-friendly
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/<your-username>/digital-wedding-planner.git
-Navigate to the project directory:
+2. Navigate to the project directory:
+    cd digital-wedding-planner  
 
-bash
-Copy
-cd digital-wedding-planner  
 Set up the database:
 
 Import the SQL schema file (database/schema.sql) into your database.
