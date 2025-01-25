@@ -19,4 +19,18 @@ A comprehensive platform to simplify wedding planning, providing a user-friendly
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-username>/digital-wedding-planner.git  
+   git clone https://github.com/<your-username>/digital-wedding-planner.git
+Navigate to the project directory:
+
+bash
+Copy
+cd digital-wedding-planner  
+Set up the database:
+
+Import the SQL schema file (database/schema.sql) into your database.
+Update the database configuration in the config.php file.
+Run the project:
+
+Start a local server (e.g., XAMPP, WAMP).
+Place the project folder in the server's root directory (e.g., htdocs for XAMPP).
+Access the platform via http://localhost/digital-wedding-planner.
